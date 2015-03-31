@@ -18,6 +18,11 @@
 		"forum":    "http://www.kodicms.ru/forum",
 		"source":   "https://github.com/KodiCMS/module-scheduler"
 	},
+	"autoload": {
+		"psr-4": {
+			"KodiCMS\\Scheduler\\": 	"classes"
+		}
+	},
 	"require": {
 		"kodicms/core": "dev-master"
 	}
