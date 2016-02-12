@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/scheduler",
+	"name":        "kodicms_kohana/scheduler",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS scheduler module",
 	"homepage":    "http://www.kodicms.ru/",
